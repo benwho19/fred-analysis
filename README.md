@@ -1,0 +1,1 @@
+Analysis of economic data from the FRED API using Pandas.
